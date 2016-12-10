@@ -561,5 +561,11 @@
     <string name="expanded_desktop_style_hide_status">Hide status bar</string>
     <string name="expanded_desktop_style_hide_navigation">Hide navigation bar</string>
     <string name="expanded_desktop_style_hide_both">Hide both</string>
-    <string name="expanded_desktop_nothing_to_show_text">Turn the switch off to customize your expanded desktop on a per-app basis</string>
+    <string name="expanded_desktop_nothing_to_show_text">Turn the switch off to customize your expanded desktop on a per-app basis</string>	 
+    
+    <!-- Optional screenshot type -->
+    <string name="screenshot_type_title">Screenshot type</string>
+    <string name="screenshot_type_fullscreen">Take fullscreen screenshots</string>
+    <string name="screenshot_type_partial">Drag selection on the area you want to take as a screenshot</string>
+
 </resources>
